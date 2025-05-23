@@ -1,0 +1,5 @@
+**/*.html
+**/allure-results
+**/allure-report
+**/allure
+**/node_modules
